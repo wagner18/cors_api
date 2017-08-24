@@ -1,0 +1,1 @@
+export default {"vendor":{"js":"/lib/vendor-e026d9eefd01eb8232ac.bundle.js","css":"/lib/vendor-e026d9eefd01eb8232ac.bundle.css"}}
