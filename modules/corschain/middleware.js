@@ -8,7 +8,7 @@
 var _ = require('lodash');
 var models = require('./models');
 var Account = require('./bitcoin/account');
-var Transaction as BitcoinTransaction = require('./bitcoin/transaction');
+var BitcoinTransaction = require('./bitcoin/transaction');
 
 
 var network = 'testnet';
